@@ -1,6 +1,6 @@
 *** TP blablastock ***
 
-Créer une page HTML/CSS reproduisant les captures d'écran blablacstock_
+Créer une page HTML/CSS reproduisant les captures d'écran blablastock_
 
 A utiliser:
 - bootstrap
@@ -8,4 +8,4 @@ A utiliser:
 - HTML5/CSS3
 - bower
 
-Le projet devra être mise en ligne sur github
+Le projet devra être mis en ligne sur github
