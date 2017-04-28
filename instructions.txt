@@ -2,6 +2,8 @@
 
 Créer une page HTML/CSS reproduisant les captures d'écran blablastock_
 
+Le dossier ressources contient des images pouvant vous être utiles.
+
 A utiliser:
 - bootstrap
 - sprites
